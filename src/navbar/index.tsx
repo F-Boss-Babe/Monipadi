@@ -17,11 +17,11 @@ const Navbar: FC = () => {
         </div>
         <div className="flex ml-auto items-center">
           <div className="hidden md:flex gap-2 items-center">
-            <a href="#" className="w-6 h-6">
+            <a href="/" className="w-6 h-6">
               <img src={InstaLogo} alt="Instagram" />
             </a>
 
-            <a href="#" className="w-6 h-6">
+            <a href="/" className="w-6 h-6">
               <img src={WhatsappLogo} alt="Whatsapp" />
             </a>
 

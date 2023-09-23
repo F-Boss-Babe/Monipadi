@@ -342,7 +342,7 @@ const Home: FC = () => {
             <p className="mb-[16px]">No 1 Uju upaka, Startimes estate, Ago</p>
             <p className="mb-[31px]">+234 808 494 9553</p>
             <div className="flex space-x-[16px]">
-              <a href="#" className="w-6 h-6">
+              <a href="/" className="w-6 h-6">
                 <img
                   className="w-[20px] h-[20px]"
                   src={InstagramIcon}
@@ -350,15 +350,15 @@ const Home: FC = () => {
                 />
               </a>
 
-              <a href="#" className="w-6 h-6">
+              <a href="/" className="w-6 h-6">
                 <img
                   className="w-[20px] h-[20px]"
                   src={TwitterIcon}
-                  alt="Whatsapp"
+                  alt="Twitter"
                 />
               </a>
 
-              <a href="#" className="w-6 h-6">
+              <a href="/" className="w-6 h-6">
                 <img
                   className="w-[20px] h-[20px]"
                   src={WhatsappIcon}
