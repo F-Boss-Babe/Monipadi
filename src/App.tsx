@@ -1,5 +1,8 @@
-import Navbar from "./Navbar";
-import Home from "./screens/Home";
+// import Navbar from "./Navbar";
+// import Home from "./screens/Home";
+
+import Navbar from "./navbar";
+import Home from "./screens/home";
 
 function App() {
   return (
